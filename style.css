@@ -1,0 +1,82 @@
+* {
+  background-color: black;
+  margin: 0px;
+  padding: 0px;
+}
+.nav1,
+ul {
+  list-style: none;
+  display: inline-block;
+  color: white;
+  position: relative;
+}
+.u1 {
+  position: relative;
+  bottom: 22px;
+  left: 140px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.u2 {
+  position: relative;
+  bottom: 22px;
+  left: 180px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.u3 {
+  position: relative;
+  bottom: 22px;
+  left: 220px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.u4 {
+  position: relative;
+  bottom: 22px;
+  left: 260px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.u5 {
+  position: relative;
+  bottom: 22px;
+  left: 310px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.u6 {
+  position: relative;
+  bottom: 22px;
+  left: 350px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.u7 {
+  position: relative;
+  bottom: 22px;
+  left: 390px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.u8 {
+  position: relative;
+  bottom: 22px;
+  left: 450px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.nav1,
+img {
+  position: relative;
+  left: 35px;
+  top: 10px;
+}
+.btn{
+    position: relative;
+  bottom: 22px;
+  left: 470px;
+    background-color: red;
+    color: white;
+    border-radius: 25px;
+    height: 40px;
+    width: 140px;
+}
+.cont1{
+    color: grey;
+    height: 40px;
+    width: 60px;
+}
+
